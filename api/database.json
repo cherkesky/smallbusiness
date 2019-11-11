@@ -1,0 +1,78 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe"
+    },
+    {
+      "id": 3,
+      "name": "Mary David"
+    },
+    {
+      "id": 4,
+      "name": "Joe Goldberg"
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "Sales"
+    },
+    {
+      "id": 2,
+      "name": "R&D"
+    },
+    {
+      "id": 3,
+      "name": "Administration"
+    }
+  ],
+  "computers": [
+    {
+      "id": 1,
+      "name": "Macbook 13"
+    },
+    {
+      "id": 2,
+      "name": "Macbook 15"
+    },
+    {
+      "id": 3,
+      "name": "Dell 27 A"
+    },
+    {
+      "id": 4,
+      "name": "Dell 27 B"
+    },
+    {
+      "id": 5,
+      "name": "ChromeBook"
+    }
+  ],
+  "employeeProfile": [
+    {
+      "employeeId": 1,
+      "departmentId": 1,
+      "computerId": 2
+    },
+    {
+      "employeeId": 2,
+      "departmentId": 2,
+      "computerId": 3
+    },
+    {
+      "employeeId": 3,
+      "departmentId": 2,
+      "computerId": 4
+    },
+    {
+      "employeeId": 4,
+      "departmentId": 3,
+      "computerId": 1
+    }
+  ]
+}   
